@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchMarkDotNetCollections", "BenchMarkDotNetCollections\BenchMarkDotNetCollections.csproj", "{800616CD-0B86-4387-A92A-0AEB0159A589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTest", "SpeedTest\SpeedTest.csproj", "{A180B92B-EB6F-40AE-B87A-F284032994AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteTestCases", "ExecuteTestCases\ExecuteTestCases.csproj", "{89EC0D76-2CF8-42F6-895C-4F3D75138E32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800616CD-0B86-4387-A92A-0AEB0159A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800616CD-0B86-4387-A92A-0AEB0159A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800616CD-0B86-4387-A92A-0AEB0159A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800616CD-0B86-4387-A92A-0AEB0159A589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A180B92B-EB6F-40AE-B87A-F284032994AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A180B92B-EB6F-40AE-B87A-F284032994AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A180B92B-EB6F-40AE-B87A-F284032994AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A180B92B-EB6F-40AE-B87A-F284032994AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EC0D76-2CF8-42F6-895C-4F3D75138E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EC0D76-2CF8-42F6-895C-4F3D75138E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EC0D76-2CF8-42F6-895C-4F3D75138E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EC0D76-2CF8-42F6-895C-4F3D75138E32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
